@@ -46,7 +46,7 @@ Deep learning project for recognizing Indian Sign Language hand gestures.
 
 **Tech:** Python | TensorFlow | MediaPipe | OpenCV
 
-🔗 [View Project](YOUR_GITHUB_LINK)
+🔗 [View Project](https://github.com/snehaskarun22/Indian-Sign-Language)
 
 ---
 
