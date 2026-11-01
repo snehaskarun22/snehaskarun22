@@ -1,6 +1,6 @@
 # Hi, I'm Sneha S Karun 👋
 
-### MSc AI & Data Science Student | Aspiring Data Analyst & Data Scientist
+### MS AI & Data Science Student | Aspiring Data Analyst & Data Scientist
 
 I am currently pursuing my MSc in AI & Data Science at ABV-IIITM Gwalior, with a strong foundation in Mathematics and Statistics.
 
